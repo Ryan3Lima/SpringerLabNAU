@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/rstudio.html</loc>
-    <lastmod>2024-09-10T23:46:11.182Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/browser.html</loc>
-    <lastmod>2024-09-10T23:46:11.150Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/index.html</loc>
-    <lastmod>2024-09-10T23:46:11.150Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/learning-more.html</loc>
-    <lastmod>2024-09-10T23:46:11.150Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/Lectures/Lecture-2.html</loc>
-    <lastmod>2024-09-10T23:46:11.098Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/Lab-Exercises/Lab-1.html</loc>
-    <lastmod>2024-09-10T23:46:11.010Z</lastmod>
-  </url>
-  <url>
     <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/transition-from-rmarkdown.html</loc>
-    <lastmod>2024-09-10T23:46:11.182Z</lastmod>
+    <lastmod>2024-09-30T23:47:30.686Z</lastmod>
   </url>
   <url>
     <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/jupyter.html</loc>
-    <lastmod>2024-09-10T23:46:11.182Z</lastmod>
+    <lastmod>2024-09-30T23:47:30.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/rstudio.html</loc>
+    <lastmod>2024-09-30T23:47:30.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/Lab-Exercises/Lab-1.html</loc>
+    <lastmod>2024-09-30T23:47:30.533Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/index.html</loc>
+    <lastmod>2024-09-30T23:47:30.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/learning-more.html</loc>
+    <lastmod>2024-09-30T23:47:30.658Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/Lectures/Lecture-2.html</loc>
+    <lastmod>2024-09-30T23:47:30.609Z</lastmod>
   </url>
   <url>
     <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/index.html</loc>
-    <lastmod>2024-09-10T23:46:11.182Z</lastmod>
+    <lastmod>2024-09-30T23:47:30.685Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ryan3lima.github.io/HydrogeologyNAU/&quot;/quarto-workflows/browser.html</loc>
+    <lastmod>2024-09-30T23:47:30.658Z</lastmod>
   </url>
 </urlset>
