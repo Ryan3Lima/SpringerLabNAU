@@ -1,2 +1,2 @@
-# Hydrogeology at NAU
+# Springs Ecohydrology Lab 
 Example quarto site 
