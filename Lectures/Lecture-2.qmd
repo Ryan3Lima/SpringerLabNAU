@@ -1,0 +1,126 @@
+---
+title: Infiltration and ET
+author: Abe Springer and Ryan Lima
+format: 
+    revealjs:
+        theme: sky
+        smaller: true
+        scrollable: true
+---
+
+
+## Textbooks^[Free Textbooks from the Groundwater Project]{.smaller}
+
+- [Groundwater Freeze - & Cherry 1979](https://fc79.gw-project.org/english/) 
+
+- [Groundwater in our Water Cycle: Getting to Know Earth's Most Important Fresh Water Source - Poeter et al. 2020](https://gw-project.org/books/groundwater-in-our-water-cycle/) 
+
+- [A Glossary of Hydrogeology - Sharp 2023](https://gw-project.org/books/a-glossary-of-hydrogeology) 
+
+
+## Other Resources {.smaller}
+
+- Free Online Course: Utah State University [Rainfall Runoff Processes](https://uwrl.usu.edu/hydrology/rrp/welcome)
+---
+
+![Hydrologic Cycle Diagram](Images/WaterCycleEncyclopediaBritannica.PNG)
+
+## The Water Cycle - 1 {.smaller}
+Where does the water go after it rains?
+
+![Water Cycle Processes. Source: USU](Images/Physical_runoff_processes_USU.PNG)
+
+- *Precipitation* weather rain or snow may be *intercepted* by vegetation. If precipitation penetrates the vegetation it is referred to as *throughfall*. 
+
+## The Water Cycle - 2 {.smaller}
+
+
+- Much of the water that is intercepted by vegetation is *evaporated* back into the atmosphere. 
+- Water is also lost to the atosphere through *transpiration* caused by plant water use, this water is generally sourced from the shallow soil in the *root zone*.
+- Thoughfall may also accumulate in shallow surface depressions called *depressional storage* where it may *evaporate* directly or *infiltrate* into the soil, where it may be evporated from the soil surface or transpired.
+- Snow may accumulate on branches in the canopy or throughfall to the ground surface where. Snow can melt and infiltrate, or *sublimate* (turn from solid to gas form) and be lost to the atmosphere. 
+
+- If the final desinitation of the water is evaporation or transpiration it is collectively known as **Evapotransporation** or *ET*. 
+
+## {.smaller}
+
+![](Images/Inflows and Outlfows.jpg){.absolute top=5 left=5 width="900" height="700"}
+
+::: aside
+Source: [Desert Research Institute](https://phys.org/news/2024-05-climate-streamflow-upper-colorado-river.html)
+:::
+
+## The Water Cycle - 4 {.smaller}
+
+![ET - source:Poeter et al., 2020 ](Images/Poeter et al Transpiration or ET.PNG)
+
+
+## The Water Cycle - 5 {.smaller}
+
+**What about water that doesn't get lost to ET?**
+
+![Water Cycle Processes. Source: USU](Images/Physical_runoff_processes_USU.PNG)
+
+## The Water Cycle - 6 {.smaller}
+
+**What about water that doesn't get lost to ET?**
+
+- Water that reaches the surface collects in small depressions, if it does not evaporate it can begin to *infiltrate* into the soil, where it may flow latterally, down-gradient, towards streams. This type of flow is called *interflow*. 
+
+- Infiltrated water may also *percolate* or move vertically down through deeper soil and rock layers into the *groundwater*.
+
+- If the water collects in depressions faster than it can infiltrate and overtops the depressions--it may *runoff*, down gradient, towards streams as *overland flow*.
+
+
+## Definitions {.smaller}
+
+- **Infiltration** the downward movement of water into the soil surface
+
+- **Percolation** the downward movement of infiltrate water through soil particles and porous materials. 
+
+![infiltration vs. Percolation](Images/InfiltrationvsPercolation.PNG)
+
+Water must *infiltrate* before it can *percolate* 
+
+## Infiltration  {.smaller}
+
+- Water that infiltrates the soil surface can perolate down to the **water table** which is a *conceptual* surface existing everywhere at some depth below the land surface
+
+- The depth of the water table varies from location to location but its depth can be measured by drilling a well. 
+
+- The water surface of a stream or lake becomes the water table where the land surface meets the edge of the water. the water surface along the shorline extends beneath the land surface. 
+
+- Along the shorline, water is generally flowing (discharging) from the land into the laker or stream but, in some isntances, the direction of flow is from the water body into the earth. 
+
+## {.smaller}
+
+![](Images/Saturated_unsaturated_cross_section_USGS.PNG)
+
+## {.smaller}
+
+![](Images/Poeter et al 2020 Saturated Unsaturated_capilary.PNG)
+
+## Capillary Rise {.smaller}
+
+- Water rises a small distance into soil pores above the water table due to capillary forces that result from the adhesion of water molecules to subsuface solids and the cohesion of water moelcules to one another.
+
+- These capillary forces pull soil upward, opposing the force of graity that pulls the water down. 
+
+- This is similar to how a sponge placed on a wet counter-top pulls the water up into the pore spaces within the sponge.
+
+![Capillary Rise](Images/Capillary_Rise_USU_course.PNG)
+
+
+## {.smaller}
+
+"In hydrology, Horton (1933) showed that rainfall, when it reaches the round surface, *infiltrates* the surface soils at a rate which decrases with time. He pointed out that for any given soil there is a limiting curve that defines the maximum possible rates of infiltration versus time. For heavy rains, the actual infiltration will follow this limiting curve, which he called the curve of *infiltration capacity* of the soil."
+
+- *infiltration rate* decrease with time after the onset of rainfall and ultimately reaches an approximately constant rate. the decline is caused mainly by the filling of the soil pores by water.
+
+- *infiltration rate* is related to the soil texure with clays having a more rapid decline in infiltration capacity and a lower final constant rate than sandy soils, or soils with more pore space.
+
+
+## More Definitions {.smaller}
+
+
+

@@ -1,0 +1,53 @@
+project: 
+  type: website
+  
+website: 
+  page-navigation: true
+  title: "Hydrology" 
+  site-url: https://ryan3lima.github.io/HydrogeologyNAU/" 
+  repo-url: https://ryan3lima.github.io/HydrogeologyNAU
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By Openscapes, 2024"
+    
+  sidebar:
+    logo: "images/NAU_School of Informatics, Computing, and Cyber Systems_primary_282_3514 (1).png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://ryan3lima.github.io/HydrogeologyNAU/
+        text: "Quarto website tutorial"
+       
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - section: Lectures/index.qmd
+        contents: 
+          - Lectures/Lecture-2.qmd
+      - section: Lab-Exercises/index.qmd
+        contents: 
+
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+filters:
+  - include-files.lua
+  - quarto
+
+  
