@@ -80,7 +80,10 @@ Example quarto site
   > The Turing Way is an open science, open collaboration, and community-driven project. We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
   
 * OpenScapes - Open Data Initative [Quarto-Website](https://openscapes.org/)
-
+  
+* Documenting Things [Youtube](https://www.youtube.com/watch?v=OVM5Ok7W1NQ);[SlideShow](https://openscapes.github.io/documenting-things/#/title-slide)
+  
+* How to Name Files [Youtube](https://youtu.be/ES1LTlnpLMk) [Github](https://github.com/jennybc/how-to-name-files#how-to-name-files)
 ---
 **Optional**
 
