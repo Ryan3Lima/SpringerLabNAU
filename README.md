@@ -9,6 +9,7 @@ Example quarto site
 
 ### Quarto
 
+---
 **Optional**
 
 ### R Studio
