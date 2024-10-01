@@ -72,13 +72,6 @@ Example quarto site
   > * Neovim
   > * Text Editor
 
----
-**Optional**
-
-### [R Studio](https://posit.co/download/rstudio-desktop/)
-
-### [Jupyter](https://jupyter.org/)
-
 
 ## Open Data Resources
 
@@ -87,5 +80,12 @@ Example quarto site
   > The Turing Way is an open science, open collaboration, and community-driven project. We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
   
 * OpenScapes - Open Data Initative [Quarto-Website](https://openscapes.org/)
+
+---
+**Optional**
+
+### [R Studio](https://posit.co/download/rstudio-desktop/)
+
+### [Jupyter](https://jupyter.org/)
 
 > Openscapes is an open source approach and movement that helps researchers and thos supporting research find each other and feel empowered to conduct data-intensitve science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, Collaborative teamwork, and inclusive commmunity development
