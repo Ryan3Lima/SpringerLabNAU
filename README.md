@@ -1,5 +1,4 @@
 # Springs Ecohydrology Lab 
-Example quarto site 
 
 ---
 # Open Data
@@ -83,3 +82,16 @@ Example quarto site
 ### [Jupyter](https://jupyter.org/)
 
 > Openscapes is an open source approach and movement that helps researchers and thos supporting research find each other and feel empowered to conduct data-intensitve science. Through a creative approach drawing inspiration and skills from many places, we provide structures for technical skill-building, Collaborative teamwork, and inclusive commmunity development
+
+## 10/22/24
+
+Intoduction to CUAHSI Compute Services [youtube](https://www.youtube.com/watch?v=Aef5knOhniE)
+
+Learn to use Hydroshare [Link](https://help.hydroshare.org/introduction-to-hydroshare/getting-started/) 
+
+Useful Webinars
+
+Introduction to Snow Hydrology [Youtube-playlist Webinar](https://www.youtube.com/playlist?list=PLPG5Ed5L1SY75EWjjsys_PFCxkgz5LFwZ)
+
+
+
