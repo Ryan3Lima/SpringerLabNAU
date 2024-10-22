@@ -87,11 +87,15 @@
 
 Intoduction to CUAHSI Compute Services [youtube](https://www.youtube.com/watch?v=Aef5knOhniE)
 
-Learn to use Hydroshare [Link](https://help.hydroshare.org/introduction-to-hydroshare/getting-started/) 
+Learn to use Hydroshare [Link](https://help.hydroshare.org/introduction-to-hydroshare/getting-started/)
 
-Useful Webinars
+Open Water Foundation's Learn Documenting [Guide](https://learn.openwaterfoundation.org/owf-learn-documenting/doc-datasets/)
+
+**Useful Webinars**
 
 Introduction to Snow Hydrology [Youtube-playlist Webinar](https://www.youtube.com/playlist?list=PLPG5Ed5L1SY75EWjjsys_PFCxkgz5LFwZ)
+
+Hyriver introduction [youtube video](https://www.youtube.com/watch?v=eRDgyq0u4Y8&t=1326s)
 
 
 
